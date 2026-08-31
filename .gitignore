@@ -1,0 +1,17 @@
+# Face images captured by buildface.py
+images/
+
+# User data
+member.txt
+num.txt
+
+# Audio files
+music/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# News cache
+news.txt
